@@ -50,7 +50,7 @@ function Calculadora(){
       <>
 <div className="flex flex-col md:flex-row justify-between items-center w-full px-20 mt-10 flex-wrap gap-5">
 <Back />
-  <h1 className="text-3xl text-center flex-1 my-5 mb-10  md:mr-0 lg:mr-[5%]">JP Caucula!</h1>
+  <h1 className="text-3xl text-center flex-1 my-5 mb-10  md:mr-0 lg:mr-[5%]">Calculadora</h1>
 </div>
         <div className="flex justify-center items-center  h-auto">
         <div className="container  w-full h-150 flex  justify-center items-center flex-col gap-10 ">
